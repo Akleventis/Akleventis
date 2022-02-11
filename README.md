@@ -1,5 +1,6 @@
 <p align="center">
-| (• ◡•)| (❍ᴥ❍ʋ)
+  <img src="https://user-images.githubusercontent.com/64287087/153618361-0c0ad74c-e7b3-4bfd-bcd9-751a5d9cbe83.gif" alt="animated" />
+
 </p>
 
 
