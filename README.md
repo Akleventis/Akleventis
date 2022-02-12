@@ -5,5 +5,5 @@
     <img src="https://user-images.githubusercontent.com/64287087/153728872-afd94d41-225f-4db3-893c-2abaea8a1ea0.gif" alt="animated" />
 </p>
 
-[<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=spotify&logoColor=black" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
+[<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=1DB954" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-leventis-ab443220b/)
