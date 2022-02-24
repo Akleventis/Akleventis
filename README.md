@@ -2,7 +2,9 @@
 [<img align="left" alt="bitly" src="https://img.shields.io/badge/bitly-%2312100E.svg?&style=for-the-badge&logo=bitly&logoColor=red&color=172f41" />](https://bitly.com/)
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/64287087/153728872-afd94d41-225f-4db3-893c-2abaea8a1ea0.gif" alt="animated" />
+<!--         <img src="https://user-images.githubusercontent.com/64287087/153728872-afd94d41-225f-4db3-893c-2abaea8a1ea0.gif" alt="animated" /> -->
+        <img width="175px" src="https://user-images.githubusercontent.com/64287087/155573143-a5b43c0b-12df-44d8-9ada-a8d239a0b56c.gif" alt="animated" />
+
 </p>
 
 [<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=1DB954" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
