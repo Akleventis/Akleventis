@@ -2,8 +2,9 @@
 [<img align="left" alt="bitly" src="https://img.shields.io/badge/bitly-%2312100E.svg?&style=for-the-badge&logo=bitly&logoColor=red&color=172f41" />](https://bitly.com/)
 
 <p align="center">
-        <img width="175px" src="https://user-images.githubusercontent.com/64287087/155573143-a5b43c0b-12df-44d8-9ada-a8d239a0b56c.gif" alt="animated" />
+        <a href="https://youtu.be/i1gAaFNigm4"><img width="175px" src="https://user-images.githubusercontent.com/64287087/155573143-a5b43c0b-12df-44d8-9ada-a8d239a0b56c.gif" alt="animated" /></a>
 </p>
+
 
 [<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=1DB954" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-leventis-ab443220b/)
