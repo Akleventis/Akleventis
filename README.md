@@ -2,8 +2,9 @@
 [<img align="left" alt="bitly" src="https://img.shields.io/badge/bitly-%2312100E.svg?&style=for-the-badge&logo=bitly&logoColor=red&color=172f41" />](https://bitly.com/)
 
 <p align="center">
-        <a href="https://youtu.be/i1gAaFNigm4"><img width="175px" src="https://user-images.githubusercontent.com/64287087/155573143-a5b43c0b-12df-44d8-9ada-a8d239a0b56c.gif" alt="animated" /></a>
+        <a href="https://youtu.be/i1gAaFNigm4"><img src="https://user-images.githubusercontent.com/64287087/171651723-309a40ee-1c90-401a-a989-e31f0f984d06.gif" alt="animated" /></a>
 </p>
+
 
 
 [<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=1DB954" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
