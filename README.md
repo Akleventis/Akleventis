@@ -7,11 +7,13 @@
 </p>
 --->
 
-<!--- BMO SKATE
+<!--- BMO SKATE --->
 <p align="center">
-        <a href="https://youtu.be/i1gAaFNigm4"><img src="https://user-images.githubusercontent.com/64287087/184217299-05932364-bc4a-4437-b9d4-edce20ef501e.gif" alt="animated" /></a>
+  <a href="https://www.youtube.com/watch?v=XCazyTAZpcU">
+    <img width=250 src="https://user-images.githubusercontent.com/64287087/184217299-05932364-bc4a-4437-b9d4-edce20ef501e.gif" alt="animated" />
+  </a>
 </p>
---->
+
 
 <!--- MARCELINE 
 <p align="center">
@@ -21,12 +23,13 @@
 </p>
 --->
 
-<!--- JAKE --->
+<!--- JAKE 
 <p align="center">
   <a href="https://youtu.be/3qShgNrbCbE">
     <img width=200 src="https://user-images.githubusercontent.com/64287087/184216356-40096dff-0d45-41f1-aeb5-f16b044e40cd.gif" alt="animated" />
   </a>
 </p>
+--->
 
 [<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=1DB954" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-leventis-ab443220b/)
