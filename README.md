@@ -7,15 +7,20 @@
 </p>
 --->
 
-<!--- MARCELINE --->
+<!--- MARCELINE 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xSdburou8Oo">
     <img width=200 src="https://user-images.githubusercontent.com/64287087/184158031-cdc2e744-27ee-4b87-90da-1a7b629ce373.gif" alt="animated" />
   </a>
 </p>
+--->
 
-
-
+<!--- JAKE --->
+<p align="center">
+  <a href="https://youtu.be/wBpx9rkTe5k">
+    <img width=200 src="https://user-images.githubusercontent.com/64287087/184159254-04bea206-d141-4362-a428-a21c0eb94682.gif" alt="animated" />
+  </a>
+</p>
 
 [<img align="right" alt="spotify" src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify&logoColor=1DB954" />](https://open.spotify.com/user/aalex_leventis?si=xRBnbMw_TfaPXnys32O22g&nd=1)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alex-leventis-ab443220b/)
