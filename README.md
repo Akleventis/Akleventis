@@ -17,7 +17,7 @@
 
 <!--- JAKE --->
 <p align="center">
-  <a href="https://youtu.be/wBpx9rkTe5k">
+  <a href="https://youtu.be/3qShgNrbCbE">
     <img width=200 src="https://user-images.githubusercontent.com/64287087/184159254-04bea206-d141-4362-a428-a21c0eb94682.gif" alt="animated" />
   </a>
 </p>
