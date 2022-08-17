@@ -9,7 +9,7 @@
 
 <!--- BMO SKATE --->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=XCazyTAZpcU">
+  <a href="https://youtu.be/RzqwPRhCp10">
     <img width=250 src="https://user-images.githubusercontent.com/64287087/184217299-05932364-bc4a-4437-b9d4-edce20ef501e.gif" alt="animated" />
   </a>
 </p>
